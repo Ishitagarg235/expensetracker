@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "amount": 25.5,
+    "category": "Food",
+    "date": "2024-09-14",
+    "description": "Lunch at cafe",
+    "id": "fa8a066f-85ca-4f39-8934-8837b1eb4eeb"
+  }
+]
